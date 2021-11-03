@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4BB6E0332726925C00BE9818 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0322726925C00BE9818 /* AppDelegate.swift */; };
-		4BB6E0352726925C00BE9818 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0342726925C00BE9818 /* SceneDelegate.swift */; };
-		4BB6E0372726925C00BE9818 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0362726925C00BE9818 /* ViewController.swift */; };
-		4BB6E03A2726925C00BE9818 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E0382726925C00BE9818 /* Main.storyboard */; };
-		4BB6E03C2726925E00BE9818 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E03B2726925E00BE9818 /* Assets.xcassets */; };
-		4BB6E03F2726925E00BE9818 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */; };
-		4BB6E04A2726925E00BE9818 /* Love_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */; };
-		4BB6E0542726925E00BE9818 /* Love_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */; };
-		4BB6E0562726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */; };
+		4BF50824272336A0006976B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF50823272336A0006976B4 /* AppDelegate.swift */; };
+		4BF50826272336A0006976B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF50825272336A0006976B4 /* SceneDelegate.swift */; };
+		4BF50828272336A0006976B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF50827272336A0006976B4 /* ViewController.swift */; };
+		4BF5082B272336A0006976B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BF50829272336A0006976B4 /* Main.storyboard */; };
+		4BF5082D272336A2006976B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BF5082C272336A2006976B4 /* Assets.xcassets */; };
+		4BF50830272336A2006976B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BF5082E272336A2006976B4 /* LaunchScreen.storyboard */; };
+		4BF5083B272336A2006976B4 /* SoundmeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF5083A272336A2006976B4 /* SoundmeTests.swift */; };
+		4BF50845272336A2006976B4 /* SoundmeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF50844272336A2006976B4 /* SoundmeUITests.swift */; };
+		4BF50847272336A2006976B4 /* SoundmeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF50846272336A2006976B4 /* SoundmeUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4BB6E0462726925E00BE9818 /* PBXContainerItemProxy */ = {
+		4BF50837272336A2006976B4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4BB6E0272726925C00BE9818 /* Project object */;
+			containerPortal = 4BF50818272336A0006976B4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4BB6E02E2726925C00BE9818;
-			remoteInfo = "Love Calculator";
+			remoteGlobalIDString = 4BF5081F272336A0006976B4;
+			remoteInfo = Soundme;
 		};
-		4BB6E0502726925E00BE9818 /* PBXContainerItemProxy */ = {
+		4BF50841272336A2006976B4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4BB6E0272726925C00BE9818 /* Project object */;
+			containerPortal = 4BF50818272336A0006976B4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4BB6E02E2726925C00BE9818;
-			remoteInfo = "Love Calculator";
+			remoteGlobalIDString = 4BF5081F272336A0006976B4;
+			remoteInfo = Soundme;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4BB6E02F2726925C00BE9818 /* Love Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Love Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0322726925C00BE9818 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4BB6E0342726925C00BE9818 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4BB6E0362726925C00BE9818 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4BB6E0392726925C00BE9818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4BB6E03B2726925E00BE9818 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4BB6E03E2726925E00BE9818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4BB6E0402726925E00BE9818 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Love CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorTests.swift; sourceTree = "<group>"; };
-		4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Love CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorUITests.swift; sourceTree = "<group>"; };
-		4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4BF50820272336A0006976B4 /* Soundme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Soundme.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BF50823272336A0006976B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4BF50825272336A0006976B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4BF50827272336A0006976B4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4BF5082A272336A0006976B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4BF5082C272336A2006976B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4BF5082F272336A2006976B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4BF50831272336A2006976B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BF50836272336A2006976B4 /* SoundmeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundmeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BF5083A272336A2006976B4 /* SoundmeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundmeTests.swift; sourceTree = "<group>"; };
+		4BF50840272336A2006976B4 /* SoundmeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundmeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BF50844272336A2006976B4 /* SoundmeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundmeUITests.swift; sourceTree = "<group>"; };
+		4BF50846272336A2006976B4 /* SoundmeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundmeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4BB6E02C2726925C00BE9818 /* Frameworks */ = {
+		4BF5081D272336A0006976B4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0422726925E00BE9818 /* Frameworks */ = {
+		4BF50833272336A2006976B4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04C2726925E00BE9818 /* Frameworks */ = {
+		4BF5083D272336A2006976B4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,137 +76,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4BB6E0262726925C00BE9818 = {
+		4BF50817272336A0006976B4 = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0312726925C00BE9818 /* Love Calculator */,
-				4BB6E0482726925E00BE9818 /* Love CalculatorTests */,
-				4BB6E0522726925E00BE9818 /* Love CalculatorUITests */,
-				4BB6E0302726925C00BE9818 /* Products */,
+				4BF50822272336A0006976B4 /* Soundme */,
+				4BF50839272336A2006976B4 /* SoundmeTests */,
+				4BF50843272336A2006976B4 /* SoundmeUITests */,
+				4BF50821272336A0006976B4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4BB6E0302726925C00BE9818 /* Products */ = {
+		4BF50821272336A0006976B4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E02F2726925C00BE9818 /* Love Calculator.app */,
-				4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */,
-				4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */,
+				4BF50820272336A0006976B4 /* Soundme.app */,
+				4BF50836272336A2006976B4 /* SoundmeTests.xctest */,
+				4BF50840272336A2006976B4 /* SoundmeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4BB6E0312726925C00BE9818 /* Love Calculator */ = {
+		4BF50822272336A0006976B4 /* Soundme */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0322726925C00BE9818 /* AppDelegate.swift */,
-				4BB6E0342726925C00BE9818 /* SceneDelegate.swift */,
-				4BB6E0362726925C00BE9818 /* ViewController.swift */,
-				4BB6E0382726925C00BE9818 /* Main.storyboard */,
-				4BB6E03B2726925E00BE9818 /* Assets.xcassets */,
-				4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */,
-				4BB6E0402726925E00BE9818 /* Info.plist */,
+				4BF50823272336A0006976B4 /* AppDelegate.swift */,
+				4BF50825272336A0006976B4 /* SceneDelegate.swift */,
+				4BF50827272336A0006976B4 /* ViewController.swift */,
+				4BF50829272336A0006976B4 /* Main.storyboard */,
+				4BF5082C272336A2006976B4 /* Assets.xcassets */,
+				4BF5082E272336A2006976B4 /* LaunchScreen.storyboard */,
+				4BF50831272336A2006976B4 /* Info.plist */,
 			);
-			path = "Love Calculator";
+			path = Soundme;
 			sourceTree = "<group>";
 		};
-		4BB6E0482726925E00BE9818 /* Love CalculatorTests */ = {
+		4BF50839272336A2006976B4 /* SoundmeTests */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */,
+				4BF5083A272336A2006976B4 /* SoundmeTests.swift */,
 			);
-			path = "Love CalculatorTests";
+			path = SoundmeTests;
 			sourceTree = "<group>";
 		};
-		4BB6E0522726925E00BE9818 /* Love CalculatorUITests */ = {
+		4BF50843272336A2006976B4 /* SoundmeUITests */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */,
-				4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */,
+				4BF50844272336A2006976B4 /* SoundmeUITests.swift */,
+				4BF50846272336A2006976B4 /* SoundmeUITestsLaunchTests.swift */,
 			);
-			path = "Love CalculatorUITests";
+			path = SoundmeUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4BB6E02E2726925C00BE9818 /* Love Calculator */ = {
+		4BF5081F272336A0006976B4 /* Soundme */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E0592726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love Calculator" */;
+			buildConfigurationList = 4BF5084A272336A2006976B4 /* Build configuration list for PBXNativeTarget "Soundme" */;
 			buildPhases = (
-				4BB6E02B2726925C00BE9818 /* Sources */,
-				4BB6E02C2726925C00BE9818 /* Frameworks */,
-				4BB6E02D2726925C00BE9818 /* Resources */,
+				4BF5081C272336A0006976B4 /* Sources */,
+				4BF5081D272336A0006976B4 /* Frameworks */,
+				4BF5081E272336A0006976B4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Love Calculator";
-			productName = "Love Calculator";
-			productReference = 4BB6E02F2726925C00BE9818 /* Love Calculator.app */;
+			name = Soundme;
+			productName = Soundme;
+			productReference = 4BF50820272336A0006976B4 /* Soundme.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4BB6E0442726925E00BE9818 /* Love CalculatorTests */ = {
+		4BF50835272336A2006976B4 /* SoundmeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E05C2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorTests" */;
+			buildConfigurationList = 4BF5084D272336A2006976B4 /* Build configuration list for PBXNativeTarget "SoundmeTests" */;
 			buildPhases = (
-				4BB6E0412726925E00BE9818 /* Sources */,
-				4BB6E0422726925E00BE9818 /* Frameworks */,
-				4BB6E0432726925E00BE9818 /* Resources */,
+				4BF50832272336A2006976B4 /* Sources */,
+				4BF50833272336A2006976B4 /* Frameworks */,
+				4BF50834272336A2006976B4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4BB6E0472726925E00BE9818 /* PBXTargetDependency */,
+				4BF50838272336A2006976B4 /* PBXTargetDependency */,
 			);
-			name = "Love CalculatorTests";
-			productName = "Love CalculatorTests";
-			productReference = 4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */;
+			name = SoundmeTests;
+			productName = SoundmeTests;
+			productReference = 4BF50836272336A2006976B4 /* SoundmeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4BB6E04E2726925E00BE9818 /* Love CalculatorUITests */ = {
+		4BF5083F272336A2006976B4 /* SoundmeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E05F2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorUITests" */;
+			buildConfigurationList = 4BF50850272336A2006976B4 /* Build configuration list for PBXNativeTarget "SoundmeUITests" */;
 			buildPhases = (
-				4BB6E04B2726925E00BE9818 /* Sources */,
-				4BB6E04C2726925E00BE9818 /* Frameworks */,
-				4BB6E04D2726925E00BE9818 /* Resources */,
+				4BF5083C272336A2006976B4 /* Sources */,
+				4BF5083D272336A2006976B4 /* Frameworks */,
+				4BF5083E272336A2006976B4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4BB6E0512726925E00BE9818 /* PBXTargetDependency */,
+				4BF50842272336A2006976B4 /* PBXTargetDependency */,
 			);
-			name = "Love CalculatorUITests";
-			productName = "Love CalculatorUITests";
-			productReference = 4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */;
+			name = SoundmeUITests;
+			productName = SoundmeUITests;
+			productReference = 4BF50840272336A2006976B4 /* SoundmeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4BB6E0272726925C00BE9818 /* Project object */ = {
+		4BF50818272336A0006976B4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
 				TargetAttributes = {
-					4BB6E02E2726925C00BE9818 = {
+					4BF5081F272336A0006976B4 = {
 						CreatedOnToolsVersion = 13.0;
 					};
-					4BB6E0442726925E00BE9818 = {
+					4BF50835272336A2006976B4 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 4BB6E02E2726925C00BE9818;
+						TestTargetID = 4BF5081F272336A0006976B4;
 					};
-					4BB6E04E2726925E00BE9818 = {
+					4BF5083F272336A2006976B4 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 4BB6E02E2726925C00BE9818;
+						TestTargetID = 4BF5081F272336A0006976B4;
 					};
 				};
 			};
-			buildConfigurationList = 4BB6E02A2726925C00BE9818 /* Build configuration list for PBXProject "Love Calculator" */;
+			buildConfigurationList = 4BF5081B272336A0006976B4 /* Build configuration list for PBXProject "Soundme" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 4BB6E0262726925C00BE9818;
-			productRefGroup = 4BB6E0302726925C00BE9818 /* Products */;
+			mainGroup = 4BF50817272336A0006976B4;
+			productRefGroup = 4BF50821272336A0006976B4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4BB6E02E2726925C00BE9818 /* Love Calculator */,
-				4BB6E0442726925E00BE9818 /* Love CalculatorTests */,
-				4BB6E04E2726925E00BE9818 /* Love CalculatorUITests */,
+				4BF5081F272336A0006976B4 /* Soundme */,
+				4BF50835272336A2006976B4 /* SoundmeTests */,
+				4BF5083F272336A2006976B4 /* SoundmeUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4BB6E02D2726925C00BE9818 /* Resources */ = {
+		4BF5081E272336A0006976B4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E03F2726925E00BE9818 /* LaunchScreen.storyboard in Resources */,
-				4BB6E03C2726925E00BE9818 /* Assets.xcassets in Resources */,
-				4BB6E03A2726925C00BE9818 /* Main.storyboard in Resources */,
+				4BF50830272336A2006976B4 /* LaunchScreen.storyboard in Resources */,
+				4BF5082D272336A2006976B4 /* Assets.xcassets in Resources */,
+				4BF5082B272336A0006976B4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0432726925E00BE9818 /* Resources */ = {
+		4BF50834272336A2006976B4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04D2726925E00BE9818 /* Resources */ = {
+		4BF5083E272336A2006976B4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4BB6E02B2726925C00BE9818 /* Sources */ = {
+		4BF5081C272336A0006976B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E0372726925C00BE9818 /* ViewController.swift in Sources */,
-				4BB6E0332726925C00BE9818 /* AppDelegate.swift in Sources */,
-				4BB6E0352726925C00BE9818 /* SceneDelegate.swift in Sources */,
+				4BF50828272336A0006976B4 /* ViewController.swift in Sources */,
+				4BF50824272336A0006976B4 /* AppDelegate.swift in Sources */,
+				4BF50826272336A0006976B4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0412726925E00BE9818 /* Sources */ = {
+		4BF50832272336A2006976B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E04A2726925E00BE9818 /* Love_CalculatorTests.swift in Sources */,
+				4BF5083B272336A2006976B4 /* SoundmeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04B2726925E00BE9818 /* Sources */ = {
+		4BF5083C272336A2006976B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E0562726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift in Sources */,
-				4BB6E0542726925E00BE9818 /* Love_CalculatorUITests.swift in Sources */,
+				4BF50847272336A2006976B4 /* SoundmeUITestsLaunchTests.swift in Sources */,
+				4BF50845272336A2006976B4 /* SoundmeUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4BB6E0472726925E00BE9818 /* PBXTargetDependency */ = {
+		4BF50838272336A2006976B4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4BB6E02E2726925C00BE9818 /* Love Calculator */;
-			targetProxy = 4BB6E0462726925E00BE9818 /* PBXContainerItemProxy */;
+			target = 4BF5081F272336A0006976B4 /* Soundme */;
+			targetProxy = 4BF50837272336A2006976B4 /* PBXContainerItemProxy */;
 		};
-		4BB6E0512726925E00BE9818 /* PBXTargetDependency */ = {
+		4BF50842272336A2006976B4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4BB6E02E2726925C00BE9818 /* Love Calculator */;
-			targetProxy = 4BB6E0502726925E00BE9818 /* PBXContainerItemProxy */;
+			target = 4BF5081F272336A0006976B4 /* Soundme */;
+			targetProxy = 4BF50841272336A2006976B4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		4BB6E0382726925C00BE9818 /* Main.storyboard */ = {
+		4BF50829272336A0006976B4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4BB6E0392726925C00BE9818 /* Base */,
+				4BF5082A272336A0006976B4 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */ = {
+		4BF5082E272336A2006976B4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4BB6E03E2726925E00BE9818 /* Base */,
+				4BF5082F272336A2006976B4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4BB6E0572726925E00BE9818 /* Debug */ = {
+		4BF50848272336A2006976B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -377,7 +377,7 @@
 			};
 			name = Debug;
 		};
-		4BB6E0582726925E00BE9818 /* Release */ = {
+		4BF50849272336A2006976B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -432,18 +432,15 @@
 			};
 			name = Release;
 		};
-		4BB6E05A2726925E00BE9818 /* Debug */ = {
+		4BF5084B272336A2006976B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Love Calculator/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Love Goals";
+				INFOPLIST_FILE = Soundme/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -454,27 +451,23 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-Goals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Soundme";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4BB6E05B2726925E00BE9818 /* Release */ = {
+		4BF5084C272336A2006976B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Love Calculator/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Love Goals";
+				INFOPLIST_FILE = Soundme/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -485,24 +478,21 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-Goals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Soundme";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		4BB6E05D2726925E00BE9818 /* Debug */ = {
+		4BF5084E272336A2006976B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,24 +501,22 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.SoundmeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Love Calculator.app/Love Calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Soundme.app/Soundme";
 			};
 			name = Debug;
 		};
-		4BB6E05E2726925E00BE9818 /* Release */ = {
+		4BF5084F272336A2006976B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -537,16 +525,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.SoundmeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Love Calculator.app/Love Calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Soundme.app/Soundme";
 			};
 			name = Release;
 		};
-		4BB6E0602726925E00BE9818 /* Debug */ = {
+		4BF50851272336A2006976B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -559,16 +547,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.SoundmeUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Love Calculator";
+				TEST_TARGET_NAME = Soundme;
 			};
 			name = Debug;
 		};
-		4BB6E0612726925E00BE9818 /* Release */ = {
+		4BF50852272336A2006976B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -581,55 +569,55 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.SoundmeUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Love Calculator";
+				TEST_TARGET_NAME = Soundme;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4BB6E02A2726925C00BE9818 /* Build configuration list for PBXProject "Love Calculator" */ = {
+		4BF5081B272336A0006976B4 /* Build configuration list for PBXProject "Soundme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E0572726925E00BE9818 /* Debug */,
-				4BB6E0582726925E00BE9818 /* Release */,
+				4BF50848272336A2006976B4 /* Debug */,
+				4BF50849272336A2006976B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E0592726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love Calculator" */ = {
+		4BF5084A272336A2006976B4 /* Build configuration list for PBXNativeTarget "Soundme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E05A2726925E00BE9818 /* Debug */,
-				4BB6E05B2726925E00BE9818 /* Release */,
+				4BF5084B272336A2006976B4 /* Debug */,
+				4BF5084C272336A2006976B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E05C2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorTests" */ = {
+		4BF5084D272336A2006976B4 /* Build configuration list for PBXNativeTarget "SoundmeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E05D2726925E00BE9818 /* Debug */,
-				4BB6E05E2726925E00BE9818 /* Release */,
+				4BF5084E272336A2006976B4 /* Debug */,
+				4BF5084F272336A2006976B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E05F2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorUITests" */ = {
+		4BF50850272336A2006976B4 /* Build configuration list for PBXNativeTarget "SoundmeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E0602726925E00BE9818 /* Debug */,
-				4BB6E0612726925E00BE9818 /* Release */,
+				4BF50851272336A2006976B4 /* Debug */,
+				4BF50852272336A2006976B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4BB6E0272726925C00BE9818 /* Project object */;
+	rootObject = 4BF50818272336A0006976B4 /* Project object */;
 }

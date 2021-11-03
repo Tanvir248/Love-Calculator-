@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4BB6E0332726925C00BE9818 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0322726925C00BE9818 /* AppDelegate.swift */; };
-		4BB6E0352726925C00BE9818 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0342726925C00BE9818 /* SceneDelegate.swift */; };
-		4BB6E0372726925C00BE9818 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0362726925C00BE9818 /* ViewController.swift */; };
-		4BB6E03A2726925C00BE9818 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E0382726925C00BE9818 /* Main.storyboard */; };
-		4BB6E03C2726925E00BE9818 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E03B2726925E00BE9818 /* Assets.xcassets */; };
-		4BB6E03F2726925E00BE9818 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */; };
-		4BB6E04A2726925E00BE9818 /* Love_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */; };
-		4BB6E0542726925E00BE9818 /* Love_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */; };
-		4BB6E0562726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */; };
+		4B9A626B2721ED2D0015F487 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9A626A2721ED2D0015F487 /* AppDelegate.swift */; };
+		4B9A626D2721ED2D0015F487 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9A626C2721ED2D0015F487 /* SceneDelegate.swift */; };
+		4B9A626F2721ED2D0015F487 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9A626E2721ED2D0015F487 /* ViewController.swift */; };
+		4B9A62722721ED2D0015F487 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B9A62702721ED2D0015F487 /* Main.storyboard */; };
+		4B9A62742721ED2F0015F487 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B9A62732721ED2F0015F487 /* Assets.xcassets */; };
+		4B9A62772721ED2F0015F487 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B9A62752721ED2F0015F487 /* LaunchScreen.storyboard */; };
+		4B9A62822721ED2F0015F487 /* Dice_RollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9A62812721ED2F0015F487 /* Dice_RollTests.swift */; };
+		4B9A628C2721ED2F0015F487 /* Dice_RollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9A628B2721ED2F0015F487 /* Dice_RollUITests.swift */; };
+		4B9A628E2721ED2F0015F487 /* Dice_RollUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B9A628D2721ED2F0015F487 /* Dice_RollUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4BB6E0462726925E00BE9818 /* PBXContainerItemProxy */ = {
+		4B9A627E2721ED2F0015F487 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4BB6E0272726925C00BE9818 /* Project object */;
+			containerPortal = 4B9A625F2721ED2D0015F487 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4BB6E02E2726925C00BE9818;
-			remoteInfo = "Love Calculator";
+			remoteGlobalIDString = 4B9A62662721ED2D0015F487;
+			remoteInfo = Dice_Roll;
 		};
-		4BB6E0502726925E00BE9818 /* PBXContainerItemProxy */ = {
+		4B9A62882721ED2F0015F487 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4BB6E0272726925C00BE9818 /* Project object */;
+			containerPortal = 4B9A625F2721ED2D0015F487 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4BB6E02E2726925C00BE9818;
-			remoteInfo = "Love Calculator";
+			remoteGlobalIDString = 4B9A62662721ED2D0015F487;
+			remoteInfo = Dice_Roll;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4BB6E02F2726925C00BE9818 /* Love Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Love Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0322726925C00BE9818 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4BB6E0342726925C00BE9818 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4BB6E0362726925C00BE9818 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4BB6E0392726925C00BE9818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4BB6E03B2726925E00BE9818 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4BB6E03E2726925E00BE9818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4BB6E0402726925E00BE9818 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Love CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorTests.swift; sourceTree = "<group>"; };
-		4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Love CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorUITests.swift; sourceTree = "<group>"; };
-		4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4B9A62672721ED2D0015F487 /* Dice_Roll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dice_Roll.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B9A626A2721ED2D0015F487 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4B9A626C2721ED2D0015F487 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4B9A626E2721ED2D0015F487 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4B9A62712721ED2D0015F487 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4B9A62732721ED2F0015F487 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4B9A62762721ED2F0015F487 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4B9A62782721ED2F0015F487 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B9A627D2721ED2F0015F487 /* Dice_RollTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Dice_RollTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B9A62812721ED2F0015F487 /* Dice_RollTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice_RollTests.swift; sourceTree = "<group>"; };
+		4B9A62872721ED2F0015F487 /* Dice_RollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Dice_RollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B9A628B2721ED2F0015F487 /* Dice_RollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice_RollUITests.swift; sourceTree = "<group>"; };
+		4B9A628D2721ED2F0015F487 /* Dice_RollUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice_RollUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4BB6E02C2726925C00BE9818 /* Frameworks */ = {
+		4B9A62642721ED2D0015F487 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0422726925E00BE9818 /* Frameworks */ = {
+		4B9A627A2721ED2F0015F487 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04C2726925E00BE9818 /* Frameworks */ = {
+		4B9A62842721ED2F0015F487 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,137 +76,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4BB6E0262726925C00BE9818 = {
+		4B9A625E2721ED2D0015F487 = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0312726925C00BE9818 /* Love Calculator */,
-				4BB6E0482726925E00BE9818 /* Love CalculatorTests */,
-				4BB6E0522726925E00BE9818 /* Love CalculatorUITests */,
-				4BB6E0302726925C00BE9818 /* Products */,
+				4B9A62692721ED2D0015F487 /* Dice_Roll */,
+				4B9A62802721ED2F0015F487 /* Dice_RollTests */,
+				4B9A628A2721ED2F0015F487 /* Dice_RollUITests */,
+				4B9A62682721ED2D0015F487 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4BB6E0302726925C00BE9818 /* Products */ = {
+		4B9A62682721ED2D0015F487 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E02F2726925C00BE9818 /* Love Calculator.app */,
-				4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */,
-				4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */,
+				4B9A62672721ED2D0015F487 /* Dice_Roll.app */,
+				4B9A627D2721ED2F0015F487 /* Dice_RollTests.xctest */,
+				4B9A62872721ED2F0015F487 /* Dice_RollUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4BB6E0312726925C00BE9818 /* Love Calculator */ = {
+		4B9A62692721ED2D0015F487 /* Dice_Roll */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0322726925C00BE9818 /* AppDelegate.swift */,
-				4BB6E0342726925C00BE9818 /* SceneDelegate.swift */,
-				4BB6E0362726925C00BE9818 /* ViewController.swift */,
-				4BB6E0382726925C00BE9818 /* Main.storyboard */,
-				4BB6E03B2726925E00BE9818 /* Assets.xcassets */,
-				4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */,
-				4BB6E0402726925E00BE9818 /* Info.plist */,
+				4B9A626A2721ED2D0015F487 /* AppDelegate.swift */,
+				4B9A626C2721ED2D0015F487 /* SceneDelegate.swift */,
+				4B9A626E2721ED2D0015F487 /* ViewController.swift */,
+				4B9A62702721ED2D0015F487 /* Main.storyboard */,
+				4B9A62732721ED2F0015F487 /* Assets.xcassets */,
+				4B9A62752721ED2F0015F487 /* LaunchScreen.storyboard */,
+				4B9A62782721ED2F0015F487 /* Info.plist */,
 			);
-			path = "Love Calculator";
+			path = Dice_Roll;
 			sourceTree = "<group>";
 		};
-		4BB6E0482726925E00BE9818 /* Love CalculatorTests */ = {
+		4B9A62802721ED2F0015F487 /* Dice_RollTests */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */,
+				4B9A62812721ED2F0015F487 /* Dice_RollTests.swift */,
 			);
-			path = "Love CalculatorTests";
+			path = Dice_RollTests;
 			sourceTree = "<group>";
 		};
-		4BB6E0522726925E00BE9818 /* Love CalculatorUITests */ = {
+		4B9A628A2721ED2F0015F487 /* Dice_RollUITests */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */,
-				4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */,
+				4B9A628B2721ED2F0015F487 /* Dice_RollUITests.swift */,
+				4B9A628D2721ED2F0015F487 /* Dice_RollUITestsLaunchTests.swift */,
 			);
-			path = "Love CalculatorUITests";
+			path = Dice_RollUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4BB6E02E2726925C00BE9818 /* Love Calculator */ = {
+		4B9A62662721ED2D0015F487 /* Dice_Roll */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E0592726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love Calculator" */;
+			buildConfigurationList = 4B9A62912721ED2F0015F487 /* Build configuration list for PBXNativeTarget "Dice_Roll" */;
 			buildPhases = (
-				4BB6E02B2726925C00BE9818 /* Sources */,
-				4BB6E02C2726925C00BE9818 /* Frameworks */,
-				4BB6E02D2726925C00BE9818 /* Resources */,
+				4B9A62632721ED2D0015F487 /* Sources */,
+				4B9A62642721ED2D0015F487 /* Frameworks */,
+				4B9A62652721ED2D0015F487 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Love Calculator";
-			productName = "Love Calculator";
-			productReference = 4BB6E02F2726925C00BE9818 /* Love Calculator.app */;
+			name = Dice_Roll;
+			productName = Dice_Roll;
+			productReference = 4B9A62672721ED2D0015F487 /* Dice_Roll.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4BB6E0442726925E00BE9818 /* Love CalculatorTests */ = {
+		4B9A627C2721ED2F0015F487 /* Dice_RollTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E05C2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorTests" */;
+			buildConfigurationList = 4B9A62942721ED2F0015F487 /* Build configuration list for PBXNativeTarget "Dice_RollTests" */;
 			buildPhases = (
-				4BB6E0412726925E00BE9818 /* Sources */,
-				4BB6E0422726925E00BE9818 /* Frameworks */,
-				4BB6E0432726925E00BE9818 /* Resources */,
+				4B9A62792721ED2F0015F487 /* Sources */,
+				4B9A627A2721ED2F0015F487 /* Frameworks */,
+				4B9A627B2721ED2F0015F487 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4BB6E0472726925E00BE9818 /* PBXTargetDependency */,
+				4B9A627F2721ED2F0015F487 /* PBXTargetDependency */,
 			);
-			name = "Love CalculatorTests";
-			productName = "Love CalculatorTests";
-			productReference = 4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */;
+			name = Dice_RollTests;
+			productName = Dice_RollTests;
+			productReference = 4B9A627D2721ED2F0015F487 /* Dice_RollTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4BB6E04E2726925E00BE9818 /* Love CalculatorUITests */ = {
+		4B9A62862721ED2F0015F487 /* Dice_RollUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E05F2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorUITests" */;
+			buildConfigurationList = 4B9A62972721ED2F0015F487 /* Build configuration list for PBXNativeTarget "Dice_RollUITests" */;
 			buildPhases = (
-				4BB6E04B2726925E00BE9818 /* Sources */,
-				4BB6E04C2726925E00BE9818 /* Frameworks */,
-				4BB6E04D2726925E00BE9818 /* Resources */,
+				4B9A62832721ED2F0015F487 /* Sources */,
+				4B9A62842721ED2F0015F487 /* Frameworks */,
+				4B9A62852721ED2F0015F487 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4BB6E0512726925E00BE9818 /* PBXTargetDependency */,
+				4B9A62892721ED2F0015F487 /* PBXTargetDependency */,
 			);
-			name = "Love CalculatorUITests";
-			productName = "Love CalculatorUITests";
-			productReference = 4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */;
+			name = Dice_RollUITests;
+			productName = Dice_RollUITests;
+			productReference = 4B9A62872721ED2F0015F487 /* Dice_RollUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4BB6E0272726925C00BE9818 /* Project object */ = {
+		4B9A625F2721ED2D0015F487 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
 				TargetAttributes = {
-					4BB6E02E2726925C00BE9818 = {
+					4B9A62662721ED2D0015F487 = {
 						CreatedOnToolsVersion = 13.0;
 					};
-					4BB6E0442726925E00BE9818 = {
+					4B9A627C2721ED2F0015F487 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 4BB6E02E2726925C00BE9818;
+						TestTargetID = 4B9A62662721ED2D0015F487;
 					};
-					4BB6E04E2726925E00BE9818 = {
+					4B9A62862721ED2F0015F487 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 4BB6E02E2726925C00BE9818;
+						TestTargetID = 4B9A62662721ED2D0015F487;
 					};
 				};
 			};
-			buildConfigurationList = 4BB6E02A2726925C00BE9818 /* Build configuration list for PBXProject "Love Calculator" */;
+			buildConfigurationList = 4B9A62622721ED2D0015F487 /* Build configuration list for PBXProject "Dice_Roll" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 4BB6E0262726925C00BE9818;
-			productRefGroup = 4BB6E0302726925C00BE9818 /* Products */;
+			mainGroup = 4B9A625E2721ED2D0015F487;
+			productRefGroup = 4B9A62682721ED2D0015F487 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4BB6E02E2726925C00BE9818 /* Love Calculator */,
-				4BB6E0442726925E00BE9818 /* Love CalculatorTests */,
-				4BB6E04E2726925E00BE9818 /* Love CalculatorUITests */,
+				4B9A62662721ED2D0015F487 /* Dice_Roll */,
+				4B9A627C2721ED2F0015F487 /* Dice_RollTests */,
+				4B9A62862721ED2F0015F487 /* Dice_RollUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4BB6E02D2726925C00BE9818 /* Resources */ = {
+		4B9A62652721ED2D0015F487 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E03F2726925E00BE9818 /* LaunchScreen.storyboard in Resources */,
-				4BB6E03C2726925E00BE9818 /* Assets.xcassets in Resources */,
-				4BB6E03A2726925C00BE9818 /* Main.storyboard in Resources */,
+				4B9A62772721ED2F0015F487 /* LaunchScreen.storyboard in Resources */,
+				4B9A62742721ED2F0015F487 /* Assets.xcassets in Resources */,
+				4B9A62722721ED2D0015F487 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0432726925E00BE9818 /* Resources */ = {
+		4B9A627B2721ED2F0015F487 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04D2726925E00BE9818 /* Resources */ = {
+		4B9A62852721ED2F0015F487 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4BB6E02B2726925C00BE9818 /* Sources */ = {
+		4B9A62632721ED2D0015F487 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E0372726925C00BE9818 /* ViewController.swift in Sources */,
-				4BB6E0332726925C00BE9818 /* AppDelegate.swift in Sources */,
-				4BB6E0352726925C00BE9818 /* SceneDelegate.swift in Sources */,
+				4B9A626F2721ED2D0015F487 /* ViewController.swift in Sources */,
+				4B9A626B2721ED2D0015F487 /* AppDelegate.swift in Sources */,
+				4B9A626D2721ED2D0015F487 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0412726925E00BE9818 /* Sources */ = {
+		4B9A62792721ED2F0015F487 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E04A2726925E00BE9818 /* Love_CalculatorTests.swift in Sources */,
+				4B9A62822721ED2F0015F487 /* Dice_RollTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04B2726925E00BE9818 /* Sources */ = {
+		4B9A62832721ED2F0015F487 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E0562726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift in Sources */,
-				4BB6E0542726925E00BE9818 /* Love_CalculatorUITests.swift in Sources */,
+				4B9A628E2721ED2F0015F487 /* Dice_RollUITestsLaunchTests.swift in Sources */,
+				4B9A628C2721ED2F0015F487 /* Dice_RollUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4BB6E0472726925E00BE9818 /* PBXTargetDependency */ = {
+		4B9A627F2721ED2F0015F487 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4BB6E02E2726925C00BE9818 /* Love Calculator */;
-			targetProxy = 4BB6E0462726925E00BE9818 /* PBXContainerItemProxy */;
+			target = 4B9A62662721ED2D0015F487 /* Dice_Roll */;
+			targetProxy = 4B9A627E2721ED2F0015F487 /* PBXContainerItemProxy */;
 		};
-		4BB6E0512726925E00BE9818 /* PBXTargetDependency */ = {
+		4B9A62892721ED2F0015F487 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4BB6E02E2726925C00BE9818 /* Love Calculator */;
-			targetProxy = 4BB6E0502726925E00BE9818 /* PBXContainerItemProxy */;
+			target = 4B9A62662721ED2D0015F487 /* Dice_Roll */;
+			targetProxy = 4B9A62882721ED2F0015F487 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		4BB6E0382726925C00BE9818 /* Main.storyboard */ = {
+		4B9A62702721ED2D0015F487 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4BB6E0392726925C00BE9818 /* Base */,
+				4B9A62712721ED2D0015F487 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */ = {
+		4B9A62752721ED2F0015F487 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4BB6E03E2726925E00BE9818 /* Base */,
+				4B9A62762721ED2F0015F487 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4BB6E0572726925E00BE9818 /* Debug */ = {
+		4B9A628F2721ED2F0015F487 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -377,7 +377,7 @@
 			};
 			name = Debug;
 		};
-		4BB6E0582726925E00BE9818 /* Release */ = {
+		4B9A62902721ED2F0015F487 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -432,18 +432,15 @@
 			};
 			name = Release;
 		};
-		4BB6E05A2726925E00BE9818 /* Debug */ = {
+		4B9A62922721ED2F0015F487 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Love Calculator/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Love Goals";
+				INFOPLIST_FILE = Dice_Roll/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -454,27 +451,23 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-Goals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Dice-Roll";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4BB6E05B2726925E00BE9818 /* Release */ = {
+		4B9A62932721ED2F0015F487 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Love Calculator/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Love Goals";
+				INFOPLIST_FILE = Dice_Roll/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -485,24 +478,21 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-Goals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Dice-Roll";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		4BB6E05D2726925E00BE9818 /* Debug */ = {
+		4B9A62952721ED2F0015F487 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,24 +501,22 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Dice-RollTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Love Calculator.app/Love Calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dice_Roll.app/Dice_Roll";
 			};
 			name = Debug;
 		};
-		4BB6E05E2726925E00BE9818 /* Release */ = {
+		4B9A62962721ED2F0015F487 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -537,16 +525,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Dice-RollTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Love Calculator.app/Love Calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dice_Roll.app/Dice_Roll";
 			};
 			name = Release;
 		};
-		4BB6E0602726925E00BE9818 /* Debug */ = {
+		4B9A62982721ED2F0015F487 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -559,16 +547,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Dice-RollUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Love Calculator";
+				TEST_TARGET_NAME = Dice_Roll;
 			};
 			name = Debug;
 		};
-		4BB6E0612726925E00BE9818 /* Release */ = {
+		4B9A62992721ED2F0015F487 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -581,55 +569,55 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Dice-RollUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Love Calculator";
+				TEST_TARGET_NAME = Dice_Roll;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4BB6E02A2726925C00BE9818 /* Build configuration list for PBXProject "Love Calculator" */ = {
+		4B9A62622721ED2D0015F487 /* Build configuration list for PBXProject "Dice_Roll" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E0572726925E00BE9818 /* Debug */,
-				4BB6E0582726925E00BE9818 /* Release */,
+				4B9A628F2721ED2F0015F487 /* Debug */,
+				4B9A62902721ED2F0015F487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E0592726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love Calculator" */ = {
+		4B9A62912721ED2F0015F487 /* Build configuration list for PBXNativeTarget "Dice_Roll" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E05A2726925E00BE9818 /* Debug */,
-				4BB6E05B2726925E00BE9818 /* Release */,
+				4B9A62922721ED2F0015F487 /* Debug */,
+				4B9A62932721ED2F0015F487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E05C2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorTests" */ = {
+		4B9A62942721ED2F0015F487 /* Build configuration list for PBXNativeTarget "Dice_RollTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E05D2726925E00BE9818 /* Debug */,
-				4BB6E05E2726925E00BE9818 /* Release */,
+				4B9A62952721ED2F0015F487 /* Debug */,
+				4B9A62962721ED2F0015F487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E05F2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorUITests" */ = {
+		4B9A62972721ED2F0015F487 /* Build configuration list for PBXNativeTarget "Dice_RollUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E0602726925E00BE9818 /* Debug */,
-				4BB6E0612726925E00BE9818 /* Release */,
+				4B9A62982721ED2F0015F487 /* Debug */,
+				4B9A62992721ED2F0015F487 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4BB6E0272726925C00BE9818 /* Project object */;
+	rootObject = 4B9A625F2721ED2D0015F487 /* Project object */;
 }

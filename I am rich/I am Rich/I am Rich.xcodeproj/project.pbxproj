@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4BB6E0332726925C00BE9818 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0322726925C00BE9818 /* AppDelegate.swift */; };
-		4BB6E0352726925C00BE9818 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0342726925C00BE9818 /* SceneDelegate.swift */; };
-		4BB6E0372726925C00BE9818 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0362726925C00BE9818 /* ViewController.swift */; };
-		4BB6E03A2726925C00BE9818 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E0382726925C00BE9818 /* Main.storyboard */; };
-		4BB6E03C2726925E00BE9818 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E03B2726925E00BE9818 /* Assets.xcassets */; };
-		4BB6E03F2726925E00BE9818 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */; };
-		4BB6E04A2726925E00BE9818 /* Love_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */; };
-		4BB6E0542726925E00BE9818 /* Love_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */; };
-		4BB6E0562726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */; };
+		4B7F2DC7272008F90092AD78 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7F2DC6272008F90092AD78 /* AppDelegate.swift */; };
+		4B7F2DC9272008F90092AD78 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7F2DC8272008F90092AD78 /* SceneDelegate.swift */; };
+		4B7F2DCB272008F90092AD78 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7F2DCA272008F90092AD78 /* ViewController.swift */; };
+		4B7F2DCE272008F90092AD78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B7F2DCC272008F90092AD78 /* Main.storyboard */; };
+		4B7F2DD0272008FA0092AD78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B7F2DCF272008FA0092AD78 /* Assets.xcassets */; };
+		4B7F2DD3272008FA0092AD78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B7F2DD1272008FA0092AD78 /* LaunchScreen.storyboard */; };
+		4B7F2DDE272008FB0092AD78 /* I_am_RichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7F2DDD272008FB0092AD78 /* I_am_RichTests.swift */; };
+		4B7F2DE8272008FB0092AD78 /* I_am_RichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7F2DE7272008FB0092AD78 /* I_am_RichUITests.swift */; };
+		4B7F2DEA272008FB0092AD78 /* I_am_RichUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7F2DE9272008FB0092AD78 /* I_am_RichUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4BB6E0462726925E00BE9818 /* PBXContainerItemProxy */ = {
+		4B7F2DDA272008FB0092AD78 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4BB6E0272726925C00BE9818 /* Project object */;
+			containerPortal = 4B7F2DBB272008F90092AD78 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4BB6E02E2726925C00BE9818;
-			remoteInfo = "Love Calculator";
+			remoteGlobalIDString = 4B7F2DC2272008F90092AD78;
+			remoteInfo = "I am Rich";
 		};
-		4BB6E0502726925E00BE9818 /* PBXContainerItemProxy */ = {
+		4B7F2DE4272008FB0092AD78 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4BB6E0272726925C00BE9818 /* Project object */;
+			containerPortal = 4B7F2DBB272008F90092AD78 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4BB6E02E2726925C00BE9818;
-			remoteInfo = "Love Calculator";
+			remoteGlobalIDString = 4B7F2DC2272008F90092AD78;
+			remoteInfo = "I am Rich";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4BB6E02F2726925C00BE9818 /* Love Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Love Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0322726925C00BE9818 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4BB6E0342726925C00BE9818 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4BB6E0362726925C00BE9818 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4BB6E0392726925C00BE9818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4BB6E03B2726925E00BE9818 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4BB6E03E2726925E00BE9818 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4BB6E0402726925E00BE9818 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Love CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorTests.swift; sourceTree = "<group>"; };
-		4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Love CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorUITests.swift; sourceTree = "<group>"; };
-		4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Love_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4B7F2DC3272008F90092AD78 /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B7F2DC6272008F90092AD78 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4B7F2DC8272008F90092AD78 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4B7F2DCA272008F90092AD78 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4B7F2DCD272008F90092AD78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4B7F2DCF272008FA0092AD78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4B7F2DD2272008FA0092AD78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4B7F2DD4272008FA0092AD78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B7F2DD9272008FB0092AD78 /* I am RichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B7F2DDD272008FB0092AD78 /* I_am_RichTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichTests.swift; sourceTree = "<group>"; };
+		4B7F2DE3272008FB0092AD78 /* I am RichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B7F2DE7272008FB0092AD78 /* I_am_RichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichUITests.swift; sourceTree = "<group>"; };
+		4B7F2DE9272008FB0092AD78 /* I_am_RichUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_am_RichUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4BB6E02C2726925C00BE9818 /* Frameworks */ = {
+		4B7F2DC0272008F90092AD78 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0422726925E00BE9818 /* Frameworks */ = {
+		4B7F2DD6272008FB0092AD78 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04C2726925E00BE9818 /* Frameworks */ = {
+		4B7F2DE0272008FB0092AD78 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,137 +76,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4BB6E0262726925C00BE9818 = {
+		4B7F2DBA272008F90092AD78 = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0312726925C00BE9818 /* Love Calculator */,
-				4BB6E0482726925E00BE9818 /* Love CalculatorTests */,
-				4BB6E0522726925E00BE9818 /* Love CalculatorUITests */,
-				4BB6E0302726925C00BE9818 /* Products */,
+				4B7F2DC5272008F90092AD78 /* I am Rich */,
+				4B7F2DDC272008FB0092AD78 /* I am RichTests */,
+				4B7F2DE6272008FB0092AD78 /* I am RichUITests */,
+				4B7F2DC4272008F90092AD78 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4BB6E0302726925C00BE9818 /* Products */ = {
+		4B7F2DC4272008F90092AD78 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E02F2726925C00BE9818 /* Love Calculator.app */,
-				4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */,
-				4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */,
+				4B7F2DC3272008F90092AD78 /* I am Rich.app */,
+				4B7F2DD9272008FB0092AD78 /* I am RichTests.xctest */,
+				4B7F2DE3272008FB0092AD78 /* I am RichUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4BB6E0312726925C00BE9818 /* Love Calculator */ = {
+		4B7F2DC5272008F90092AD78 /* I am Rich */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0322726925C00BE9818 /* AppDelegate.swift */,
-				4BB6E0342726925C00BE9818 /* SceneDelegate.swift */,
-				4BB6E0362726925C00BE9818 /* ViewController.swift */,
-				4BB6E0382726925C00BE9818 /* Main.storyboard */,
-				4BB6E03B2726925E00BE9818 /* Assets.xcassets */,
-				4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */,
-				4BB6E0402726925E00BE9818 /* Info.plist */,
+				4B7F2DC6272008F90092AD78 /* AppDelegate.swift */,
+				4B7F2DC8272008F90092AD78 /* SceneDelegate.swift */,
+				4B7F2DCA272008F90092AD78 /* ViewController.swift */,
+				4B7F2DCC272008F90092AD78 /* Main.storyboard */,
+				4B7F2DCF272008FA0092AD78 /* Assets.xcassets */,
+				4B7F2DD1272008FA0092AD78 /* LaunchScreen.storyboard */,
+				4B7F2DD4272008FA0092AD78 /* Info.plist */,
 			);
-			path = "Love Calculator";
+			path = "I am Rich";
 			sourceTree = "<group>";
 		};
-		4BB6E0482726925E00BE9818 /* Love CalculatorTests */ = {
+		4B7F2DDC272008FB0092AD78 /* I am RichTests */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0492726925E00BE9818 /* Love_CalculatorTests.swift */,
+				4B7F2DDD272008FB0092AD78 /* I_am_RichTests.swift */,
 			);
-			path = "Love CalculatorTests";
+			path = "I am RichTests";
 			sourceTree = "<group>";
 		};
-		4BB6E0522726925E00BE9818 /* Love CalculatorUITests */ = {
+		4B7F2DE6272008FB0092AD78 /* I am RichUITests */ = {
 			isa = PBXGroup;
 			children = (
-				4BB6E0532726925E00BE9818 /* Love_CalculatorUITests.swift */,
-				4BB6E0552726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift */,
+				4B7F2DE7272008FB0092AD78 /* I_am_RichUITests.swift */,
+				4B7F2DE9272008FB0092AD78 /* I_am_RichUITestsLaunchTests.swift */,
 			);
-			path = "Love CalculatorUITests";
+			path = "I am RichUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4BB6E02E2726925C00BE9818 /* Love Calculator */ = {
+		4B7F2DC2272008F90092AD78 /* I am Rich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E0592726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love Calculator" */;
+			buildConfigurationList = 4B7F2DED272008FB0092AD78 /* Build configuration list for PBXNativeTarget "I am Rich" */;
 			buildPhases = (
-				4BB6E02B2726925C00BE9818 /* Sources */,
-				4BB6E02C2726925C00BE9818 /* Frameworks */,
-				4BB6E02D2726925C00BE9818 /* Resources */,
+				4B7F2DBF272008F90092AD78 /* Sources */,
+				4B7F2DC0272008F90092AD78 /* Frameworks */,
+				4B7F2DC1272008F90092AD78 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Love Calculator";
-			productName = "Love Calculator";
-			productReference = 4BB6E02F2726925C00BE9818 /* Love Calculator.app */;
+			name = "I am Rich";
+			productName = "I am Rich";
+			productReference = 4B7F2DC3272008F90092AD78 /* I am Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4BB6E0442726925E00BE9818 /* Love CalculatorTests */ = {
+		4B7F2DD8272008FB0092AD78 /* I am RichTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E05C2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorTests" */;
+			buildConfigurationList = 4B7F2DF0272008FB0092AD78 /* Build configuration list for PBXNativeTarget "I am RichTests" */;
 			buildPhases = (
-				4BB6E0412726925E00BE9818 /* Sources */,
-				4BB6E0422726925E00BE9818 /* Frameworks */,
-				4BB6E0432726925E00BE9818 /* Resources */,
+				4B7F2DD5272008FB0092AD78 /* Sources */,
+				4B7F2DD6272008FB0092AD78 /* Frameworks */,
+				4B7F2DD7272008FB0092AD78 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4BB6E0472726925E00BE9818 /* PBXTargetDependency */,
+				4B7F2DDB272008FB0092AD78 /* PBXTargetDependency */,
 			);
-			name = "Love CalculatorTests";
-			productName = "Love CalculatorTests";
-			productReference = 4BB6E0452726925E00BE9818 /* Love CalculatorTests.xctest */;
+			name = "I am RichTests";
+			productName = "I am RichTests";
+			productReference = 4B7F2DD9272008FB0092AD78 /* I am RichTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4BB6E04E2726925E00BE9818 /* Love CalculatorUITests */ = {
+		4B7F2DE2272008FB0092AD78 /* I am RichUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4BB6E05F2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorUITests" */;
+			buildConfigurationList = 4B7F2DF3272008FB0092AD78 /* Build configuration list for PBXNativeTarget "I am RichUITests" */;
 			buildPhases = (
-				4BB6E04B2726925E00BE9818 /* Sources */,
-				4BB6E04C2726925E00BE9818 /* Frameworks */,
-				4BB6E04D2726925E00BE9818 /* Resources */,
+				4B7F2DDF272008FB0092AD78 /* Sources */,
+				4B7F2DE0272008FB0092AD78 /* Frameworks */,
+				4B7F2DE1272008FB0092AD78 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4BB6E0512726925E00BE9818 /* PBXTargetDependency */,
+				4B7F2DE5272008FB0092AD78 /* PBXTargetDependency */,
 			);
-			name = "Love CalculatorUITests";
-			productName = "Love CalculatorUITests";
-			productReference = 4BB6E04F2726925E00BE9818 /* Love CalculatorUITests.xctest */;
+			name = "I am RichUITests";
+			productName = "I am RichUITests";
+			productReference = 4B7F2DE3272008FB0092AD78 /* I am RichUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4BB6E0272726925C00BE9818 /* Project object */ = {
+		4B7F2DBB272008F90092AD78 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
 				TargetAttributes = {
-					4BB6E02E2726925C00BE9818 = {
+					4B7F2DC2272008F90092AD78 = {
 						CreatedOnToolsVersion = 13.0;
 					};
-					4BB6E0442726925E00BE9818 = {
+					4B7F2DD8272008FB0092AD78 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 4BB6E02E2726925C00BE9818;
+						TestTargetID = 4B7F2DC2272008F90092AD78;
 					};
-					4BB6E04E2726925E00BE9818 = {
+					4B7F2DE2272008FB0092AD78 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 4BB6E02E2726925C00BE9818;
+						TestTargetID = 4B7F2DC2272008F90092AD78;
 					};
 				};
 			};
-			buildConfigurationList = 4BB6E02A2726925C00BE9818 /* Build configuration list for PBXProject "Love Calculator" */;
+			buildConfigurationList = 4B7F2DBE272008F90092AD78 /* Build configuration list for PBXProject "I am Rich" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 4BB6E0262726925C00BE9818;
-			productRefGroup = 4BB6E0302726925C00BE9818 /* Products */;
+			mainGroup = 4B7F2DBA272008F90092AD78;
+			productRefGroup = 4B7F2DC4272008F90092AD78 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4BB6E02E2726925C00BE9818 /* Love Calculator */,
-				4BB6E0442726925E00BE9818 /* Love CalculatorTests */,
-				4BB6E04E2726925E00BE9818 /* Love CalculatorUITests */,
+				4B7F2DC2272008F90092AD78 /* I am Rich */,
+				4B7F2DD8272008FB0092AD78 /* I am RichTests */,
+				4B7F2DE2272008FB0092AD78 /* I am RichUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4BB6E02D2726925C00BE9818 /* Resources */ = {
+		4B7F2DC1272008F90092AD78 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E03F2726925E00BE9818 /* LaunchScreen.storyboard in Resources */,
-				4BB6E03C2726925E00BE9818 /* Assets.xcassets in Resources */,
-				4BB6E03A2726925C00BE9818 /* Main.storyboard in Resources */,
+				4B7F2DD3272008FA0092AD78 /* LaunchScreen.storyboard in Resources */,
+				4B7F2DD0272008FA0092AD78 /* Assets.xcassets in Resources */,
+				4B7F2DCE272008F90092AD78 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0432726925E00BE9818 /* Resources */ = {
+		4B7F2DD7272008FB0092AD78 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04D2726925E00BE9818 /* Resources */ = {
+		4B7F2DE1272008FB0092AD78 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4BB6E02B2726925C00BE9818 /* Sources */ = {
+		4B7F2DBF272008F90092AD78 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E0372726925C00BE9818 /* ViewController.swift in Sources */,
-				4BB6E0332726925C00BE9818 /* AppDelegate.swift in Sources */,
-				4BB6E0352726925C00BE9818 /* SceneDelegate.swift in Sources */,
+				4B7F2DCB272008F90092AD78 /* ViewController.swift in Sources */,
+				4B7F2DC7272008F90092AD78 /* AppDelegate.swift in Sources */,
+				4B7F2DC9272008F90092AD78 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E0412726925E00BE9818 /* Sources */ = {
+		4B7F2DD5272008FB0092AD78 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E04A2726925E00BE9818 /* Love_CalculatorTests.swift in Sources */,
+				4B7F2DDE272008FB0092AD78 /* I_am_RichTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BB6E04B2726925E00BE9818 /* Sources */ = {
+		4B7F2DDF272008FB0092AD78 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BB6E0562726925E00BE9818 /* Love_CalculatorUITestsLaunchTests.swift in Sources */,
-				4BB6E0542726925E00BE9818 /* Love_CalculatorUITests.swift in Sources */,
+				4B7F2DEA272008FB0092AD78 /* I_am_RichUITestsLaunchTests.swift in Sources */,
+				4B7F2DE8272008FB0092AD78 /* I_am_RichUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4BB6E0472726925E00BE9818 /* PBXTargetDependency */ = {
+		4B7F2DDB272008FB0092AD78 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4BB6E02E2726925C00BE9818 /* Love Calculator */;
-			targetProxy = 4BB6E0462726925E00BE9818 /* PBXContainerItemProxy */;
+			target = 4B7F2DC2272008F90092AD78 /* I am Rich */;
+			targetProxy = 4B7F2DDA272008FB0092AD78 /* PBXContainerItemProxy */;
 		};
-		4BB6E0512726925E00BE9818 /* PBXTargetDependency */ = {
+		4B7F2DE5272008FB0092AD78 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4BB6E02E2726925C00BE9818 /* Love Calculator */;
-			targetProxy = 4BB6E0502726925E00BE9818 /* PBXContainerItemProxy */;
+			target = 4B7F2DC2272008F90092AD78 /* I am Rich */;
+			targetProxy = 4B7F2DE4272008FB0092AD78 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		4BB6E0382726925C00BE9818 /* Main.storyboard */ = {
+		4B7F2DCC272008F90092AD78 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4BB6E0392726925C00BE9818 /* Base */,
+				4B7F2DCD272008F90092AD78 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4BB6E03D2726925E00BE9818 /* LaunchScreen.storyboard */ = {
+		4B7F2DD1272008FA0092AD78 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4BB6E03E2726925E00BE9818 /* Base */,
+				4B7F2DD2272008FA0092AD78 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4BB6E0572726925E00BE9818 /* Debug */ = {
+		4B7F2DEB272008FB0092AD78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -377,7 +377,7 @@
 			};
 			name = Debug;
 		};
-		4BB6E0582726925E00BE9818 /* Release */ = {
+		4B7F2DEC272008FB0092AD78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -432,77 +432,71 @@
 			};
 			name = Release;
 		};
-		4BB6E05A2726925E00BE9818 /* Debug */ = {
+		4B7F2DEE272008FB0092AD78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Love Calculator/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Love Goals";
+				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-Goals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.I-am-Rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		4BB6E05B2726925E00BE9818 /* Release */ = {
+		4B7F2DEF272008FB0092AD78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Love Calculator/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Love Goals";
+				INFOPLIST_FILE = "I am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeRight UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-Goals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.I-am-Rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
-		4BB6E05D2726925E00BE9818 /* Debug */ = {
+		4B7F2DF1272008FB0092AD78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,24 +505,22 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.I-am-RichTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Love Calculator.app/Love Calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I am Rich.app/I am Rich";
 			};
 			name = Debug;
 		};
-		4BB6E05E2726925E00BE9818 /* Release */ = {
+		4B7F2DF2272008FB0092AD78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = H67J3VG3LU;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -537,16 +529,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.I-am-RichTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Love Calculator.app/Love Calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/I am Rich.app/I am Rich";
 			};
 			name = Release;
 		};
-		4BB6E0602726925E00BE9818 /* Debug */ = {
+		4B7F2DF4272008FB0092AD78 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -559,16 +551,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.I-am-RichUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Love Calculator";
+				TEST_TARGET_NAME = "I am Rich";
 			};
 			name = Debug;
 		};
-		4BB6E0612726925E00BE9818 /* Release */ = {
+		4B7F2DF5272008FB0092AD78 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -581,55 +573,55 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.Love-CalculatorUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sparta-i.I-am-RichUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Love Calculator";
+				TEST_TARGET_NAME = "I am Rich";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4BB6E02A2726925C00BE9818 /* Build configuration list for PBXProject "Love Calculator" */ = {
+		4B7F2DBE272008F90092AD78 /* Build configuration list for PBXProject "I am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E0572726925E00BE9818 /* Debug */,
-				4BB6E0582726925E00BE9818 /* Release */,
+				4B7F2DEB272008FB0092AD78 /* Debug */,
+				4B7F2DEC272008FB0092AD78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E0592726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love Calculator" */ = {
+		4B7F2DED272008FB0092AD78 /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E05A2726925E00BE9818 /* Debug */,
-				4BB6E05B2726925E00BE9818 /* Release */,
+				4B7F2DEE272008FB0092AD78 /* Debug */,
+				4B7F2DEF272008FB0092AD78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E05C2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorTests" */ = {
+		4B7F2DF0272008FB0092AD78 /* Build configuration list for PBXNativeTarget "I am RichTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E05D2726925E00BE9818 /* Debug */,
-				4BB6E05E2726925E00BE9818 /* Release */,
+				4B7F2DF1272008FB0092AD78 /* Debug */,
+				4B7F2DF2272008FB0092AD78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4BB6E05F2726925E00BE9818 /* Build configuration list for PBXNativeTarget "Love CalculatorUITests" */ = {
+		4B7F2DF3272008FB0092AD78 /* Build configuration list for PBXNativeTarget "I am RichUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4BB6E0602726925E00BE9818 /* Debug */,
-				4BB6E0612726925E00BE9818 /* Release */,
+				4B7F2DF4272008FB0092AD78 /* Debug */,
+				4B7F2DF5272008FB0092AD78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4BB6E0272726925C00BE9818 /* Project object */;
+	rootObject = 4B7F2DBB272008F90092AD78 /* Project object */;
 }
